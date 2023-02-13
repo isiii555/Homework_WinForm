@@ -1,0 +1,6 @@
+public protected protected internal private private protected
++         +              +             +           + 
++         +              +             -           +
++         -              +             -           -
++         +              +             -           -
++         -              -             -           -
